@@ -1,8 +1,1 @@
-<style>
-  .centered
-  {
-  text-align: center;
-  }
-</style>
-
-<p class="centered">Testing center?</p>
+<p align="center">Testing center?</p>
